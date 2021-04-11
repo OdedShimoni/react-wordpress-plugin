@@ -9,7 +9,7 @@
 
 React-WordPress-Plugin is a WordPress Plugin boilerplate with React on both the
 admin page and React component rendering on the public page alongside a fully
-functionally WordPress plugin.
+functional WordPress plugin.
 
 ### Features
 
